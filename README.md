@@ -1,4 +1,4 @@
-<img align="top" alt="Banner" width="1000" height="300" src="https://images.app.goo.gl/45D1vmsZ35FnAUr47">
+<img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/36/e4/d0/36e4d0b856694fc471344b644a1dd6e4.gif">
 ## Hi there 👋
 
  <h1 align="center">Hi 👋, I'm Achinta Dey</h1>
@@ -15,7 +15,7 @@
   <a href="https://github.com/ACHINTA-069">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.instagram.com/a_c_h_i_n_t_a?igsh=MWw4aW1nbnN2NnA2cw==">
+  <a href="https://www.instagram.com/___a_c_h_i_n_t_a___?igsh=MWw4aW1nbnN2NnA2cw==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/share/1CbJXoYtFN/?mibextid=qi2Omg">
