@@ -15,7 +15,7 @@
   <a href="https://github.com/ACHINTA-069">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.instagram.com/___a_c_h_i_n_t_a___?igsh=MWw4aW1nbnN2NnA2cw==">
+  <a href="https://www.instagram.com/____a_c_h_i_n_t_a____?igsh=MWw4aW1nbnN2NnA2cw==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/share/1CbJXoYtFN/?mibextid=qi2Omg">
